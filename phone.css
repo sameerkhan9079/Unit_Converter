@@ -1,0 +1,15 @@
+
+html{
+    font-size: 50%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 50%;
+    height: 70vh;
+    /* margin-right:120px;
+    margin-top:150px;  */
+}
+h1{
+    margin-left: 19rem;
+    width: 80%;
+}
